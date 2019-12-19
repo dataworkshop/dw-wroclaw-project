@@ -5,6 +5,11 @@
 You can find more information about the project on [wiki pages](
 https://github.com/dataworkshop/dw-wroclaw-project/wiki).
 
+
+## Project structure
+
+The structure of the project is influenced by the [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) and uses only part of it.
+
 ## More about our group
 
 * Wroclaw @ DataWorkshop Club: [#wroclaw](https://dataworkshopclub.slack.com/messages/CG6E8KMGQ)
@@ -17,6 +22,3 @@ https://github.com/dataworkshop/dw-wroclaw-project/wiki).
 * Filip
 * Mirek
 * Romek
-* ...
-* ...
-* ...
